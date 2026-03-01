@@ -2,6 +2,8 @@
 
 ***This repository is under construction, sit tight!***
 
->![NOTE]
+>[!NOTE]
+>
 >*All files will be licensed under GPL-3.0 GNU General Public License. License is stored in the root of this repository.*
-
+>
+>*perhaps it should work now...*
