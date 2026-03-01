@@ -1,4 +1,5 @@
-![logo](https://github.com/MathewQuaters/Remona-Blossom/refs/heads/main/.img/logo.png)
+![logo](https://raw.githubusercontent.com/MathewQuaters/Remona-Blossom/refs/heads/main/.img/logo.png)
+
 ***This repository is under construction, sit tight!***
 
 >![NOTE]
