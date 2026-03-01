@@ -2,6 +2,8 @@
 
 ***This repository is under construction, sit tight!***
 
+*Nhấn vào [đây](https://github.com/MathewQuaters/Remona-Blossom/tree/vi-VN) để sang nhánh tiếng Việt của kho lưu trữ này.*
+
 >[!NOTE]
 >
 >*All files will be licensed under GPL-3.0 GNU General Public License. License is stored in the root of this repository.*
