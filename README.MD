@@ -6,7 +6,7 @@
 >
 >*Tất cả các tệp sẽ được cấp phép theo Giấy phép Công cộng GNU GPL-3.0. Giấy phép được lưu trữ ở thư mục gốc của kho lưu trữ này.*
 >
->Tiếng Việt sẽ được thêm vào một nhánh khác của kho lưu trữ này như một nỗ lực bản địa hóa.
+>Tiếng Việt sẽ được thêm vào một nhánh khác của kho lưu trữ này như một nỗ lực bản địa hóa, những ngôn ngữ khác cũng sẽ được thêm vào.
 >
 
 >[!IMPORTANT]
