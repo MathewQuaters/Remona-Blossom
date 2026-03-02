@@ -19,4 +19,4 @@ Sẽ có sự hợp tác giữa Mathew Quarters và Butter Watt, việc phát tr
 *ONT: (xem thêm `Network interface device` trong [Wikipedia tiếng Anh](https://en.wikipedia.org/wiki/Network_interface_device)) Một thiết bị đóng vai trò là điểm cuối của mạng quang, thường được gọi là `hộp cáp quang`.
 
 
-`Lần cập nhật cuối cùng: Buter Watt @ButterWatt | Ngày 1 tháng 3 năm 2026`
+`Lần cập nhật cuối cùng: Buter Watt @ButterWatt | Ngày 2 tháng 3 năm 2026`
