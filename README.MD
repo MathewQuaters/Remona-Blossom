@@ -11,7 +11,7 @@
 
 >[!IMPORTANT]
 >
->Do các vấn đề pháp lý tiềm ẩn, chúng tôi **sẽ không** tải lên phần mềm ONT của nhà cung cấp thiết bị/nhà cung cấp dịch vụ Internet lên kho lưu trữ này.
+>Do các vấn đề pháp lý tiềm ẩn, chúng tôi **sẽ không** tải lên phần mềm ONT của nhà cung cấp thiết bị/nhà cung cấp dịch vụ Internet lên kho lưu trữ này, nhưng chúng tôi sẽ tải lên các công cụ vá và có thể là phần mềm tùy biến (dựa trên OpenWrt nếu phần mềm đạt một số điều kiện).
 >
 
 Sẽ có sự hợp tác giữa Mathew Quarters và Butter Watt, việc phát triển phần mềm nhúng sẽ thực sự khó khăn.
