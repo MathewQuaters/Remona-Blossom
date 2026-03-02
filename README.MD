@@ -18,6 +18,6 @@
 
 There will be collaboration between Mathew Quaters and Butter Watt, work with firmware will be hard honestly.
 
-*ONT: (see `Network interface device` in [Wikipedia](https://en.wikipedia.org/wiki/Network_interface_device))
+*ONT: (also see `Network interface device` in [Wikipedia](https://en.wikipedia.org/wiki/Network_interface_device)) a device that serves as the endpoint of an optical network, commonly known as `fibre box`.
 
-`Last commit: Mathew Quaters @MathewQuaters | March 1st, 2026`
+`Last commit: Butter Watt @ButterWatt | March 2nd, 2026`
