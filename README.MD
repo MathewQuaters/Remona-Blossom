@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/MathewQuaters/Remona-Blossom/refs/heads/main/.img/logo.png)
 
-"*No firmware freedom? We will build it ourself.*"
+"*No firmware freedom? We will build it ourselves.*"
 
 ***This repository is under construction, sit tight!***
 
