@@ -2,6 +2,8 @@
 
 "*No firmware freedom? We will build it ourselves.*"
 
+A project for ZTE ZXHN F670Y ONT* firmware modification & patching
+
 ***This repository is under construction, sit tight!***
 
 *Nhấn vào [đây](https://github.com/MathewQuaters/Remona-Blossom/tree/vi-VN) để sang nhánh tiếng Việt của kho lưu trữ này.*
@@ -22,4 +24,4 @@ There will be collaboration between Mathew Quaters and Butter Watt, work with fi
 
 *ONT: (also see `Network interface device` in [Wikipedia](https://en.wikipedia.org/wiki/Network_interface_device)) a device that serves as the endpoint of an optical network, commonly known as `fibre box`.
 
-`Last commit: Mathew Quaters @MathewQuaters | March 2nd, 2026`
+`Last commit: Butter Watt @ButterWatt | March 2nd, 2026`
