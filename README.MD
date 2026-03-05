@@ -8,7 +8,7 @@ A project for ZTE ZXHN F670Y ONT* firmware modification & patching
 
 *Nhấn vào [đây](https://github.com/MathewQuaters/Remona-Blossom/tree/vi-VN) để sang nhánh tiếng Việt của kho lưu trữ này.*
 
-*Due to some issues with our schedule, the project will be paused for around 2 weeks (don't ask me why, I'm just a hardware reverse engineer) | **UPDATE**: We have to suspend the project due to lack of time, also, we will have to find the firmware source.
+*Due to some issues with our schedule, the project will be paused for around 2 weeks (don't ask me why, I'm just a hardware reverse engineer) | Project suspended, it will stay suspended until get the that GPON terminal (yes, the logistic service ate our package, it will be a long time with cusomer servive.)
 
 >[!NOTE]
 >
@@ -22,8 +22,6 @@ A project for ZTE ZXHN F670Y ONT* firmware modification & patching
 >Due to potential legal issues, we will **not** upload device vendor/ISP ONT firmware to this repository, but we will upload patch tools and/or custom firmware (OpenWRT-based if firmware requirements are met).
 >
 
-There will be collaboration between Mathew Quaters and Butter Watt, work with firmware will be hard honestly.
-
 *ONT: (also see `Network interface device` in [Wikipedia](https://en.wikipedia.org/wiki/Network_interface_device)) a device that serves as the endpoint of an optical network, commonly known as `fibre box`.
 
-`Last commit: Mathew Quaters @MathewQuaters | March 4th, 2026 | Status: Suspended - N/A`
+`Last commit: Butter Watt @ButterWatt | March 5th, 2026 | Status: Suspended - N/A`
