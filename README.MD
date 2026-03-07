@@ -2,13 +2,13 @@
 
 "*No firmware freedom? We will build it ourselves.*"
 
-A project for ZTE ZXHN F670Y ONT* firmware modification & patching
+A project for ZTE ZXHN F670Y/F671Y ONT* (GPON Terminal) firmware modification & patching
 
 ***This repository is under construction, sit tight!***
 
 *Nhấn vào [đây](https://github.com/MathewQuaters/Remona-Blossom/tree/vi-VN) để sang nhánh tiếng Việt của kho lưu trữ này.*
 
-*Due to some issues with our schedule, the project will be paused for around 2 weeks (don't ask me why, I'm just a hardware reverse engineer) | Project suspended, it will stay suspended until get the that GPON terminal (yes, the logistic service ate our package, it will be a long time with cusomer servive.)
+We're working on it, since our hardware has been sent back to seller, we have to suspend the project, we're sorry for that.
 
 >[!NOTE]
 >
@@ -24,4 +24,4 @@ A project for ZTE ZXHN F670Y ONT* firmware modification & patching
 
 *ONT: (also see `Network interface device` in [Wikipedia](https://en.wikipedia.org/wiki/Network_interface_device)) a device that serves as the endpoint of an optical network, commonly known as `fibre box`.
 
-`Last commit: Butter Watt @ButterWatt | March 5th, 2026 | Status: Suspended - N/A`
+`Last commit: Mathew Quaters @MathewQuaters | March 7th, 2026 | Status: Suspended - < 4 weeks`
