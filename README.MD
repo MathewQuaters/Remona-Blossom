@@ -2,13 +2,15 @@
 
 "*No firmware freedom? We will build it ourselves.*"
 
-A project for ZTE ZXHN F670Y/F671Y ONT* (GPON Terminal) firmware modification & patching
+A project for ZTE ZXHN F670Y/F671Y ONT* (GPON Terminal) firmware modification & patching.
 
 ***This repository is under construction, sit tight!***
 
 *Nhấn vào [đây](https://github.com/MathewQuaters/Remona-Blossom/tree/vi-VN) để sang nhánh tiếng Việt của kho lưu trữ này.*
 
 We're working on it, since our hardware has been sent back to seller, we have to suspend the project, we're sorry for that.
+
+Beside that, we will work on GPON Terminal openess ranking system, but it will take a long time.
 
 >[!NOTE]
 >
