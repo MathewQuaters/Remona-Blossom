@@ -10,8 +10,6 @@ A project for ZTE ZXHN F670Y/F671Y ONT* (GPON Terminal) firmware modification & 
 
 We're working on it, since our hardware has been sent back to seller, we have to suspend the project, we're sorry for that.
 
-Beside that, we will work on GPON Terminal openess ranking system, but it will take a long time.
-
 >[!NOTE]
 >
 >*All files will be licensed under GPL-3.0 GNU General Public License. License is stored in the root of this repository.*
@@ -21,9 +19,9 @@ Beside that, we will work on GPON Terminal openess ranking system, but it will t
 
 >[!IMPORTANT]
 >
->Due to potential legal issues, we will **not** upload device vendor/ISP ONT firmware to this repository, but we will upload patch tools and/or custom firmware (OpenWRT-based if firmware requirements are met).
+>Due to potential legal issues, we will **not** upload device vendor/ISP GPON firmware to this repository, but we will upload patch tools and/or custom firmware (OpenWRT-based if firmware requirements are met).
 >
 
 *ONT: (also see `Network interface device` in [Wikipedia](https://en.wikipedia.org/wiki/Network_interface_device)) a device that serves as the endpoint of an optical network, commonly known as `fibre box`.
 
-`Last commit: Mathew Quaters @MathewQuaters | March 7th, 2026 | Status: Suspended - < 4 weeks`
+`Last commit: Mathew Quaters @MathewQuaters | March 11, 2026 | Status: Suspended - < 4 weeks`
