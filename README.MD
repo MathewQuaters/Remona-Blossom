@@ -19,7 +19,7 @@ We're working on it, since our hardware has been sent back to seller, we have to
 
 >[!IMPORTANT]
 >
->Due to potential legal issues, we will **not** upload device vendor/ISP GPON firmware to this repository (Why? They're proprietary and registered for protection), but we will upload patch tools and/or even custom firmware (OpenWRT-based if firmware requirements are met).
+>Due to potential legal issues, we will **not** upload device vendor/ISP GPON firmware to this repository (Why? They're proprietary and registered for protection), but we will upload patches & tools and/or even custom firmware (OpenWRT-based if firmware requirements are met, but not full modified firmware due to OpenWRT's GPLv2 license).
 >
 
 *ONT: (also see `Network interface device` in [Wikipedia](https://en.wikipedia.org/wiki/Network_interface_device)) a device that serves as the endpoint of an optical network, commonly known as `fibre box`.
