@@ -8,7 +8,7 @@ A project for ZTE ZXHN F670Y/F671Y ONT* (GPON Terminal) firmware modification & 
 
 *Nhấn vào [đây](https://github.com/MathewQuaters/Remona-Blossom/tree/vi-VN) để sang nhánh tiếng Việt của kho lưu trữ này.*
 
-We're working on it, since our hardware has been sent back to seller, we have to suspend the project, we're sorry for that.
+We're pausing the work on this repository due to lack of time. We will comeback if we can.
 
 >[!NOTE]
 >
@@ -24,4 +24,4 @@ We're working on it, since our hardware has been sent back to seller, we have to
 
 *ONT: (also see `Network interface device` in [Wikipedia](https://en.wikipedia.org/wiki/Network_interface_device)) a device that serves as the endpoint of an optical network, commonly known as `fibre box`.
 
-`Last commit: Mathew "Altarhos" Quaters @MathewQuaters | March 21, 2026 | Status: Waiting, will start soon - ~2 days`
+`Last commit: Butter Watt @ButterWatt | April 27, 2026 | Status: Paused - N/A`
